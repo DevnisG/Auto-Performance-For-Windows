@@ -1,1 +1,1 @@
-Scripts Sencillos para mejorar el rendimiento de tu PC Potato, de manera facil y rapida, sin programas, SOLO POWERSHELL.
+Un script sencillo automatico, que realiza un Tweak profundo al sistema para eliminar Blothware y optimizar todo lo posible tu PC Potato.
